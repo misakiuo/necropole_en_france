@@ -8,7 +8,7 @@ Grâce à cette carte, vous pouvez chercher la localisation des néclopoles, rec
 ▷ [Voir l'explication](/howtouse.png)
 
 ## B. Carte interactive
-▷ [Voir la carte](/carte_finale_centre.html)
+▷ [Voir la carte](necropole-carte/test25.html)
 
 ## C. Données utilisées
 ▷ [Voir les données](3_carte_echelle_1_sorities_finales/carte_finale_centre.html)
