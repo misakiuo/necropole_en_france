@@ -13,7 +13,7 @@ Grâce à cette carte, vous pouvez chercher la localisation des néclopoles, rec
 ▷ [Voir la carte](necropole-carte/test25.html)
 
 ## C. Données utilisées
-▷ [Voir les données](donnees)
+▷ https://github.com/misakiuo/necropole_en_france/tree/main/donnees
 
 _________________________________________________
 Mise à jour : 9 janvier 2026
