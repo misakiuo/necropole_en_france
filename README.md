@@ -6,8 +6,8 @@ Les nécropoles nationales ont été créées par la loi du 29 décembre 1915 po
 
 Grâce à cette carte, vous pouvez chercher la localisation des néclopoles, rechercher des néclopoles qui vous intéressent par le filtre voire aller avoir plus d'informations.
 
-## A. 🔍 Comment utiliser ? *préparation en cours
-▷ [Voir l'explication]
+## A. 🔍 Comment utiliser ? 
+▷ [Voir l'explication]*préparation en cours
 
 ## B. Carte interactive
 ▷ [Voir la carte](carte_interactive.html)
